@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RavinshuK
-- 👀 I’m interested in ...
+- 👀 I’m interested in Fullstack Web Development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact: rv.kushwaha01@gmail.com
 
 <!---
 RavinshuK/RavinshuK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
